@@ -16,3 +16,4 @@ export default class ClassRepository extends Repository<Class> {
     }
 
 }
+//commint
